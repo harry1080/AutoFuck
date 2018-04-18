@@ -1,0 +1,93 @@
+[
+    {
+        "url": "/install/",
+        "name": "AspCMS",
+        "method": "re",
+        "value": "aspcms",
+        "weight": 35
+    },
+    {
+        "url": "/about/_notes/dwsync.xml",
+        "name": "AspCMS",
+        "method": "re",
+        "value": "aspcms",
+        "weight": 35
+    },
+    {
+        "url": "/admin/_Style/_notes/dwsync.xml",
+        "name": "AspCMS",
+        "method": "re",
+        "value": "aspcms",
+        "weight": 35
+    },
+   {
+        "url": "/data/admin/allowurl.txt",
+        "name": "DedeCMS",
+        "method": "re",
+        "value": "dedecms",
+        "weight": 35
+    },
+    {
+        "url": "/data/index.html",
+        "name": "dedecms",
+        "method": "re",
+        "value": "dedecms",
+        "weight": 35
+    },
+    {
+        "url": "/data/js/index.html",
+        "name": "dedecms",
+        "method": "re",
+        "value": "dedecms",
+        "weight": 35
+    },
+    {
+        "url": "/data/mytag/index.html",
+        "name": "dedecms",
+        "method": "re",
+        "value": "dedecms",
+        "weight": 35
+    },
+    {
+        "url": "/data/sessions/index.html",
+        "name": "dedecms",
+        "method": "re",
+        "value": "dedecms",
+        "weight": 35
+    },
+    {
+        "url": "/data/textdata/index.html",
+        "name": "dedecms",
+        "method": "re",
+        "value": "dedecms",
+        "weight": 35
+    },
+    {
+        "url": "/dede/action/css_body.css",
+        "name": "dedecms",
+        "method": "re",
+        "value": "dedecms",
+        "weight": 35
+    },
+    {
+        "url": "/dede/css_body.css",
+        "name": "dedecms",
+        "method": "re",
+        "value": "dedecms",
+        "weight": 35
+    },
+    {
+        "url": "/dede/templets/article_coonepage_rule.htm",
+        "name": "dedecms",
+        "method": "re",
+        "value": "dedecms",
+        "weight": 35
+    },
+    {
+        "url": "/include/alert.htm",
+        "name": "dedecms",
+        "method": "re",
+        "value": "dedecms",
+        "weight": 35
+    }
+]

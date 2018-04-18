@@ -1,5 +1,6 @@
-# AngelSword
-AngelSword是由python3编写的简易的cms漏洞检测框架。旨在帮助有安全经验的安全工程师对已知的应用快速发现漏洞。
+# AutoFuck
+AutoFuck是由AngelSword项目的poc拿过来重写的一个新项目, 可以批量识别网站cms类型,并且加载相关poc自动攻击。
+嗯, 为什么没有人真正写一点有用的东西呢?
 
 
 
@@ -9,8 +10,7 @@ AngelSword是由python3编写的简易的cms漏洞检测框架。旨在帮助有
 
 
 # 平台
-MAC Linux
-
+MAC Linux + python3
 
 
 # 需要用到的模块
@@ -37,5 +37,5 @@ pymongo
 [+] 增加针对登录后的poc检测，在AngelSword目录下新建cookies.txt文件，将Cookie的值粘贴进去。维持cookie的poc带有标识"需要cookies文件"。
 
 # bugs
-hanmengzi1993@gmail.com
+hacktext@163.com
 

@@ -6,11 +6,11 @@ referer: unknow
 author: Lucifer
 description: 引入main接口
 '''
-from cms.cmsmain import *
-from system.systemmain import *
-from industrial.industrialmain import *
-from hardware.hardwaremain import *
-from information.informationmain import *
+from pocs.cms.cmsmain import *
+from pocs.system.systemmain import *
+from pocs.industrial.industrialmain import *
+from pocs.hardware.hardwaremain import *
+from pocs.information.informationmain import *
 class pocdb_pocs:
     def __init__(self, url):
         self.url = url
