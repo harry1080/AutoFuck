@@ -2,6 +2,7 @@
 AutoFuck是由AngelSword项目的poc拿过来重写的一个新项目, 可以批量识别网站cms类型,并且加载相关poc自动攻击。
 嗯, 为什么没有人真正写一点有用的东西呢?
 
+还在开发,各位. 请等待.
 
 
 # 使用用法
@@ -33,8 +34,7 @@ pymongo
 
 3.所有POC均为开源，以后也一直如此，供大家参考和学习。如果有提供POC的朋友可以私发👇👇邮箱。
 
-# 增加功能
-[+] 增加针对登录后的poc检测，在AngelSword目录下新建cookies.txt文件，将Cookie的值粘贴进去。维持cookie的poc带有标识"需要cookies文件"。
+
 
 # bugs
 hacktext@163.com
